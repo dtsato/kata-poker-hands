@@ -1,13 +1,11 @@
-= kata-poker-hands
+= Kata repository for Poker Hands
 
-Description goes here.
+This is a repository that can be used as a starting point for doing the Poker Hands kata, as described in http://www.codingdojo.org/cgi-bin/wiki.pl?back=KataPokerHands
 
 == Note on Patches/Pull Requests
  
 * Fork the project.
 * Make your feature addition or bug fix.
-* Add tests for it. This is important so I don't break it in a
-  future version unintentionally.
 * Commit, do not mess with rakefile, version, or history.
   (if you want to have your own version, that is fine but
    bump version in a commit by itself I can ignore when I pull)
