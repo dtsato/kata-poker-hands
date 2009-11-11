@@ -2,13 +2,19 @@
 
 This is a repository that can be used as a starting point for doing the Poker Hands kata, as described in http://www.codingdojo.org/cgi-bin/wiki.pl?back=KataPokerHands
 
+== TODO
+
+This is just a first commit with a failing cucumber feature.
+
+* I will add a reference implementation branch soon
+* Integrate with Sensei (http://github.com/dtsato/sensei)
+
 == Note on Patches/Pull Requests
  
 * Fork the project.
 * Make your feature addition or bug fix.
 * Commit, do not mess with rakefile, version, or history.
-  (if you want to have your own version, that is fine but
-   bump version in a commit by itself I can ignore when I pull)
+  (if you want to have your own version, that is fine but bump version in a commit by itself I can ignore when I pull)
 * Send me a pull request. Bonus points for topic branches.
 
 == Copyright
